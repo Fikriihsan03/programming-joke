@@ -7,14 +7,14 @@ class App extends React.Component{
   constructor(){
     super()
     this.state = {
-      quoteField : ''
+      jokefield : ''
     }
   }
 
   generateQuote = () =>{
-    fetch("https://programming-quotes-api.herokuapp.com/quotes/random") 
+    fetch("https://sv443.net/jokeapi/v2/joke/Programming?type=single") 
     .then(resp => resp.json())
-    .then(joke => this.setState({quoteField:joke.en}))
+    .then(joke => this.setState({jokefield:joke.joke}))
   }
       
       
@@ -23,10 +23,10 @@ class App extends React.Component{
     return (
       <div className="App">
       <header className="App-header">
-        <h1>Programming Quote</h1>
+        <h1>Programming Joke</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <Content  className="content"index = {this.state.quoteField}/>
-        <button onClick= {this.generateQuote}>Get Quote!!</button>
+        <Content  className="content"index = {this.state.jokefield}/>
+        <button onClick= {this.generateQuote}>Get Joke!!</button>
       </header>
         
       </div>
