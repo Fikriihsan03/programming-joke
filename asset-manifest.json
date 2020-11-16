@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/programming-quote/static/css/main.7ce4a7ee.chunk.css",
-    "main.js": "/programming-quote/static/js/main.7e338783.chunk.js",
-    "main.js.map": "/programming-quote/static/js/main.7e338783.chunk.js.map",
-    "runtime-main.js": "/programming-quote/static/js/runtime-main.696faca4.js",
-    "runtime-main.js.map": "/programming-quote/static/js/runtime-main.696faca4.js.map",
-    "static/js/2.cf280dc8.chunk.js": "/programming-quote/static/js/2.cf280dc8.chunk.js",
-    "static/js/2.cf280dc8.chunk.js.map": "/programming-quote/static/js/2.cf280dc8.chunk.js.map",
-    "static/js/3.8532bf64.chunk.js": "/programming-quote/static/js/3.8532bf64.chunk.js",
-    "static/js/3.8532bf64.chunk.js.map": "/programming-quote/static/js/3.8532bf64.chunk.js.map",
-    "index.html": "/programming-quote/index.html",
-    "static/css/main.7ce4a7ee.chunk.css.map": "/programming-quote/static/css/main.7ce4a7ee.chunk.css.map",
-    "static/js/2.cf280dc8.chunk.js.LICENSE.txt": "/programming-quote/static/js/2.cf280dc8.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/programming-quote/static/media/logo.103b5fa1.svg"
+    "main.css": "/programming-joke/static/css/main.7ce4a7ee.chunk.css",
+    "main.js": "/programming-joke/static/js/main.7e338783.chunk.js",
+    "main.js.map": "/programming-joke/static/js/main.7e338783.chunk.js.map",
+    "runtime-main.js": "/programming-joke/static/js/runtime-main.b0c54377.js",
+    "runtime-main.js.map": "/programming-joke/static/js/runtime-main.b0c54377.js.map",
+    "static/js/2.cf280dc8.chunk.js": "/programming-joke/static/js/2.cf280dc8.chunk.js",
+    "static/js/2.cf280dc8.chunk.js.map": "/programming-joke/static/js/2.cf280dc8.chunk.js.map",
+    "static/js/3.8532bf64.chunk.js": "/programming-joke/static/js/3.8532bf64.chunk.js",
+    "static/js/3.8532bf64.chunk.js.map": "/programming-joke/static/js/3.8532bf64.chunk.js.map",
+    "index.html": "/programming-joke/index.html",
+    "static/css/main.7ce4a7ee.chunk.css.map": "/programming-joke/static/css/main.7ce4a7ee.chunk.css.map",
+    "static/js/2.cf280dc8.chunk.js.LICENSE.txt": "/programming-joke/static/js/2.cf280dc8.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/programming-joke/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.696faca4.js",
+    "static/js/runtime-main.b0c54377.js",
     "static/js/2.cf280dc8.chunk.js",
     "static/css/main.7ce4a7ee.chunk.css",
     "static/js/main.7e338783.chunk.js"
